@@ -1,0 +1,11 @@
+Mod:
+  name: "Antonio Bourassa"
+  bio: "What do you want, jewels? I am a very extravagant man."
+  avatar: "https://avatars.githubusercontent.com/u/39917231?v=4"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:AntonioInColorado@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://gjcoding.github.io/"
