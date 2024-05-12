@@ -1,0 +1,5 @@
+main:
+  - title: "Courses"
+    url: /pages/plans/
+  - title: "About"
+    url: /pages/about/
