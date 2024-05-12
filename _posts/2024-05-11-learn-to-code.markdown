@@ -8,13 +8,7 @@ author_profile: true
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras eleifend dui enim, vitae dapibus velit aliquet luctus. Mauris suscipit sem in purus aliquam placerat. Phasellus molestie volutpat elit eu consectetur. Integer est dolor, faucibus et orci vel, dapibus suscipit erat. Duis est eros, dapibus nec blandit laoreet, ultricies a mi. Interdum et malesuada fames ac ante ipsum primis in faucibus. Phasellus lacus elit, porta in leo at, pretium pharetra elit. Pellentesque commodo eget justo in molestie. Nulla facilisi. Nulla facilisi.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-# => prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+## Hello
 
 Aliquam erat volutpat. Sed mattis mi mauris, eget blandit est semper ut. Maecenas viverra ante pretium sapien placerat, in scelerisque tortor varius. Morbi sodales lectus ligula, vel lobortis est efficitur vel. Maecenas congue nunc eget facilisis mollis. In ornare nisi nec mi tempor laoreet. Nam ac volutpat odio. Mauris convallis magna et risus iaculis luctus. Nam justo tellus, condimentum a sagittis sit amet, condimentum at orci. Donec tortor nulla, aliquet eget tortor in, aliquam rutrum quam. Aenean erat ex, iaculis id sagittis et, dignissim a metus. Morbi porta blandit ante, quis fringilla lacus tempor quis. Curabitur leo sem, vehicula ut ligula ac, porttitor bibendum lacus.
 
